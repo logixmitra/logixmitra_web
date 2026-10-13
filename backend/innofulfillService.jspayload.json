@@ -1,0 +1,114 @@
+{
+  "referenceId": "REF-JFFWJW5SAV",
+  "amount": 999,
+  "orderDate": "2026-09-27T00:00:00.000Z",
+  "orderType": "FORWARD",
+  "orderStatus": "CONFIRMED",
+  "parcelCategory": "ECOMM",
+  "autoManifest": true,
+  "eWaybills": [],
+  "deliveryPromise": "ECOMM",
+  "deliveryMode": "SURFACE",
+  "documentType": "",
+  "taxes": [],
+  "discounts": [],
+  "metadata": {
+    "source": "innofulfill_v2"
+  },
+  "documents": [],
+  "addresses": [
+    {
+      "type": "PICKUP",
+      "zip": "382715",
+      "name": "Home",
+      "phone": "7284969451",
+      "email": "",
+      "street": "54 Raghukul bunglows part-2, near Jakatnaka,Nani Kadi Road",
+      "landmark": "",
+      "city": "Kadi",
+      "state": "Gujarat",
+      "country": "India",
+      "latitude": null,
+      "longitude": null,
+      "addressName": "54 Raghukul bunglows part-2, near Jakatnaka,Nani Kadi Road, Kadi, Gujarat, 382715",
+      "GSTNumber": ""
+    },
+    {
+      "type": "DELIVERY",
+      "zip": "281001",
+      "name": "Vishwaraj Pratap Singh",
+      "phone": "8445443242",
+      "email": "",
+      "street": "D-5 Janakpuri, Gli No-6, Near Neema Girls Hostel, Maholi Road, Mathura",
+      "landmark": "",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": null,
+      "longitude": null,
+      "addressName": "D-5 Janakpuri, Gli No-6, Near Neema Girls Hostel, Maholi Road, Mathura, Mathura, Uttar Pradesh, 281001"
+    },
+    {
+      "type": "BILLING",
+      "zip": "281001",
+      "name": "Vishwaraj Pratap Singh",
+      "phone": "8445443242",
+      "email": "",
+      "street": "D-5 Janakpuri, Gli No-6, Near Neema Girls Hostel, Maholi Road, Mathura",
+      "landmark": "",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "latitude": null,
+      "longitude": null,
+      "addressName": "D-5 Janakpuri, Gli No-6, Near Neema Girls Hostel, Maholi Road, Mathura, Mathura, Uttar Pradesh, 281001"
+    },
+    {
+      "type": "RETURN",
+      "zip": "382715",
+      "name": "Home",
+      "phone": "7284969451",
+      "email": "",
+      "street": "54 Raghukul bunglows part-2, near Jakatnaka,Nani Kadi Road",
+      "landmark": "",
+      "city": "Kadi",
+      "state": "Gujarat",
+      "country": "India",
+      "latitude": null,
+      "longitude": null,
+      "addressName": "54 Raghukul bunglows part-2, near Jakatnaka,Nani Kadi Road, Kadi, Gujarat, 382715"
+    }
+  ],
+  "shipments": [
+    {
+      "dimensions": {
+        "length": 15,
+        "width": 6,
+        "height": 4
+      },
+      "shipmentStatus": "CONFIRMED",
+      "awbNumber": "",
+      "physicalWeight": 0.5,
+      "physicalWeightUnit": "KG",
+      "volumetricWeight": 0.072,
+      "note": "",
+      "items": [
+        {
+          "name": "Attars",
+          "quantity": 1,
+          "unitPrice": 999,
+          "sku": "SKU-1",
+          "hsnCode": "",
+          "gstRate": 0,
+          "description": "Attars"
+        }
+      ]
+    }
+  ],
+  "carrierName": "innofulfill_ecomm",
+  "payment": {
+    "type": "PREPAID",
+    "currency": "INR",
+    "paymentMethod": "ONLINE"
+  }
+}

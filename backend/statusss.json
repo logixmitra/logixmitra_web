@@ -1,0 +1,75 @@
+{
+  "AWB": "59757110022105",
+  "CODAmount": 0,
+  "ChargedWeight": null,
+  "Consignee": {
+    "Address1": [],
+    "Address2": [],
+    "Address3": "",
+    "City": "Jaipur",
+    "Country": "India",
+    "Name": "Md Ikbal",
+    "PinCode": 302002,
+    "State": "Rajasthan",
+    "Telephone1": "",
+    "Telephone2": ""
+  },
+  "DeliveryDate": null,
+  "DestRecieveDate": null,
+  "Destination": "Jaipur",
+  "DispatchCount": 0,
+  "Ewaybill": [],
+  "ExpectedDeliveryDate": null,
+  "Extras": "",
+  "FirstAttemptDate": null,
+  "InvoiceAmount": 224,
+  "OrderType": "Pre-paid",
+  "Origin": "Delhi_Airport_GW (Delhi)",
+  "OriginRecieveDate": null,
+  "OutDestinationDate": null,
+  "PickUpDate": "2026-09-20T18:32:11.39",
+  "PickedupDate": null,
+  "PickupLocation": "SK DELHIVERY",
+  "PromisedDeliveryDate": null,
+  "Quantity": "1",
+  "RTOStartedDate": null,
+  "ReferenceNo": "REF-9TSKU3PRTZ",
+  "ReturnPromisedDeliveryDate": null,
+  "ReturnedDate": null,
+  "ReverseInTransit": false,
+  "Scans": [
+    {
+      "ScanDetail": {
+        "Instructions": "Manifest uploaded",
+        "Scan": "Manifested",
+        "ScanDateTime": "2026-09-20T18:32:11.413",
+        "ScanType": "UD",
+        "ScannedLocation": "Delhi_Airport_GW (Delhi)",
+        "StatusCode": "X-UCI",
+        "StatusDateTime": "2026-09-20T18:32:11.413"
+      }
+    },
+    {
+      "ScanDetail": {
+        "Instructions": "Pickup scheduled",
+        "Scan": "Manifested",
+        "ScanDateTime": "2026-09-20T18:32:12",
+        "ScanType": "UD",
+        "ScannedLocation": "Delhi_Airport_GW (Delhi)",
+        "StatusCode": "FMPUR-101",
+        "StatusDateTime": "2026-09-20T18:32:12"
+      }
+    }
+  ],
+  "SenderName": "LOGIXMITRA C2C",
+  "Status": {
+    "Instructions": "Pickup scheduled",
+    "RecievedBy": "",
+    "Status": "Manifested",
+    "StatusCode": "FMPUR-101",
+    "StatusDateTime": "2026-09-20T18:32:12",
+    "StatusLocation": "Delhi_Airport_GW (Delhi)",
+    "StatusType": "UD"
+  },
+  "status": "In Transit"
+}
